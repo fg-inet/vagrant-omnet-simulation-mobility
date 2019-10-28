@@ -1,1 +1,2 @@
-# vagrant-omnet-simulation-moving
+# Vagrant box for simulation with Omnet++ and SimuLTE
+Coming soon...
