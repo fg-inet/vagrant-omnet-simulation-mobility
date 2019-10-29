@@ -1,0 +1,3 @@
+package advanceddemo;
+
+@license(LGPL);
