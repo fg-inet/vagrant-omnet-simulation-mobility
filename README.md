@@ -45,7 +45,7 @@ This will run a simulation scenario with the config `[Config swimMovementFP_ds0_
 
 ### Adjusting the movement of UEs
 
-In the simulation we include 3 main types of UE movement - pedestrians (at 1mps), vehicles (at 10mps) and stationary clients. All of these can be adjusted in the `Moving1/simulations/omnetpp.ini` file. In each "Config" section (eg. `[Config swimMovementFP_ds0_p1_s100-0]`) the following can be used to set speed of UEs (exemples):
+In the simulation we include 3 main types of UE movement - pedestrians (at 1mps), vehicles (at 10mps) and stationary clients. All of these can be adjusted in the `Moving1/simulations/omnetpp.ini` file. In each "Config" section (eg. `[Config swimMovementFP_ds0_p1_s100-0]`) the following can be used to set speed of UEs (examples):
 - ```*.ue[0..39].mobility.speed = 1mps``` Sets movement speed of UEs 0 through 39 to 1 mps (pedestrian)
 - ```*.ue[40..79].mobility.speed = 10mps``` Sets movement speed of UEs 40 through 79 to 10 mps (vehicle)
 - ```*.ue[*].mobility.speed = 10mps``` Sets movement speed of all UEs to 10 mps (vehicle)
