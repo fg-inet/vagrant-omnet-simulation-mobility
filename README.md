@@ -37,9 +37,11 @@ and use the following command to run an exemplary simulation scenario:
 $ ./run_sim_campaign.sh -c swimMovementFP_ds0_p2_s50-50 -t 1
 ```
 
-This will run a simulation scenario with the config name "swimMovementFP_ds0_p2_s50-50".
+This will run a simulation scenario with the config `[Config swimMovementFP_ds0_p2_s50-50]`.
 
--c argument specifies the scenario's config name. You can find what simulation scenarios are available in the `omnetpp.ini` file.
+-c argument specifies the scenario's config name. You can find what simulation scenarios are available in the `Moving1/simulations/omnetpp.ini` file.
+
+-t argument specifies the number of threads that will be used to parallelize the simulation. 
 
 ### Adjusting the movement of UEs
 
@@ -61,6 +63,10 @@ The following table shows the most relevant parameters used to configure the eNo
 <p align="left">
   <img src="omnet-eNB-configs.png" width=350>
 </p>
+
+**AMC** = Adaptive Modulation and Coding<br/>
+**MAC** = Medium access control<br/>
+**RLC** = Radio link control
 
 ## Links
 1. Omnet++ - https://omnetpp.org
