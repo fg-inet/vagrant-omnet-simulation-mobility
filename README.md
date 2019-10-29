@@ -3,9 +3,7 @@
 A readme for vagrant box with Omnet++ simulation setup for the project.
 
 ## Requirements
-1. Vagrant - Tested with version 2.2.4 (available at: https://www.vagrantup.com/downloads.html)
-2. An internet connection
-3. Patience - as setup might take a few minutes
+Vagrant - Tested with version 2.2.4 (available at: https://www.vagrantup.com/downloads.html)
 
 ## Vagrant box setup
 In the `\vagrant-omnet-simulation-mobility` folder use: 
