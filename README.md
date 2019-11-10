@@ -1,6 +1,8 @@
-# Vagrant box for simulation with Omnet++ and SimuLTE
+# Vagrant box for simulation with Omnet++ and SimuLTE with Client Mobility
 
-A readme for vagrant box with Omnet++ simulation setup for the project.
+This is the simulation enviroment used in an extension towards mobility of the work:
+
+Schwarzmann, S., Cassales Marquezan, C., Bosk, M., Liu, H., Trivisonno, R., & Zinner, T. (2019, October). Estimating Video Streaming QoE in the 5G Architecture Using Machine Learning. In <i>Proceedings of the 4th Internet-QoE Workshop on QoE-based Analysis and Management of Data Communication Networks</i> (pp. 7-12). ACM.
 
 ## Requirements
 Vagrant - Tested with version 2.2.4 (available at: https://www.vagrantup.com/downloads.html)
