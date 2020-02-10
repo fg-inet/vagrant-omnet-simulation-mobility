@@ -11,7 +11,7 @@ Schwarzmann, S., Cassales Marquezan, C., Bosk, M., Liu, H., Trivisonno, R., & Zi
 Vagrant - Tested with version 2.2.4 (available at: https://www.vagrantup.com/downloads.html)
 
 ### Vagrant box setup
-In the `\vagrant-omnet-simulation-mobility` folder use: 
+In the `/vagrant-omnet-simulation-mobility/simulation-environment` folder use: 
 ```bash
 $ vagrant up
 ```
@@ -20,7 +20,7 @@ And wait until the vagrant box setup is complete.
 
 ### Using the Omnet++ simulator
 
-To access the box and the simulation environment use the following command while remaining in the `\vagrant-omnet-simulation-mobility` folder:
+To access the box and the simulation environment use the following command while remaining in the `/vagrant-omnet-simulation-mobility/simulation-environment` folder:
 
 ```bash
 $ vagrant ssh
@@ -66,7 +66,7 @@ In this example UEs 0 to 55 will become stationary.
 
 The following table shows the most relevant parameters used to configure the eNodeB in the simulated scenarios:
 <p align="left">
-  <img src="omnet-eNB-configs.png" width=350>
+  <img src="simulation-environment/omnet-eNB-configs.png" width=350>
 </p>
 
 **AMC** = Adaptive Modulation and Coding<br/>
