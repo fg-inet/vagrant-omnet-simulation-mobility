@@ -82,6 +82,12 @@ The following table shows the most relevant parameters used to configure the eNo
 6. TCP Video Client Adaptation which the TCP Video Client used in this work is based on - https://github.com/inet-framework/inet/tree/topic/tcpvideosteaming/src/inet/applications/tcpapp (files `TcpVideoStreamCliApp.*`)
 
 ## Supplementary Data
+### Number of features and monitoring points 
+| Number of features | Stuff         | Stuff  |
+| ------------- |:-------------:| -----:|
+| 1     | right-aligned |  |
+| 2     | centered      |   $12 |
+| 3 | are neat      |    $1 |
 
 ## Contact
 1. Susanna Schwarzmann - susanna@inet.tu-berlin.de
