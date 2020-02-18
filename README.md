@@ -83,11 +83,7 @@ The following table shows the most relevant parameters used to configure the eNo
 
 ## Supplementary Data
 ### Number of features and monitoring points 
-| Number of features | Stuff         | Stuff  |
-| ------------- |:-------------:| -----:|
-| 1     | right-aligned |  |
-| 2     | centered      |   $12 |
-| 3 | are neat      |    $1 |
+
 
 ## Contact
 1. Susanna Schwarzmann - susanna@inet.tu-berlin.de
