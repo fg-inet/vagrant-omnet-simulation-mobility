@@ -81,7 +81,7 @@ The following table shows the most relevant parameters used to configure the eNo
 5. Original version of the TCP Video Client by Joaquín Navarro - https://github.com/navarrojoaquin/adaptive-video-tcp-omnet
 6. TCP Video Client Adaptation which the TCP Video Client used in this work is based on - https://github.com/inet-framework/inet/tree/topic/tcpvideosteaming/src/inet/applications/tcpapp (files `TcpVideoStreamCliApp.*`)
 
-## Supplementary Data
+## Supplementary Material
 ### Number of features and monitoring points 
 
 
