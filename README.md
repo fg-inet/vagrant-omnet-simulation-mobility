@@ -82,7 +82,13 @@ The following table shows the most relevant parameters used to configure the eNo
 6. TCP Video Client Adaptation which the TCP Video Client used in this work is based on - https://github.com/inet-framework/inet/tree/topic/tcpvideosteaming/src/inet/applications/tcpapp (files `TcpVideoStreamCliApp.*`)
 
 ## Supplementary Material
-### Number of features and monitoring points 
+### Number of features, feature lists and monitoring points 
+
+See the [table](./supplementary-data/FeatureLists.md) .
+
+It shows, in the case of same **number of features**,  the corresponding **feature lists**, **monitoring points** when alpha is the value that result in the lowest  Median absolute error (medAE) while applying Lasso Regression.
+
+All, Moving, Pedestrian, Vehicle, Stationary are different type of datasets in experiments.
 
 
 ## Contact

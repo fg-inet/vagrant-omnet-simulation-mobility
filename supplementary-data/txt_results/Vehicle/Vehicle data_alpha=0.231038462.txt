@@ -1,0 +1,4 @@
+std_Downlink CQI
+median_UE Throughput DL
+75percentile_UE Throughput DL
+sem_UE Throughput DL

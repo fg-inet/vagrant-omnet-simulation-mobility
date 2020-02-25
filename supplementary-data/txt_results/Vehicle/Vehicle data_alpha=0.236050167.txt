@@ -1,0 +1,4 @@
+average_UE Throughput DL
+median_UE Throughput DL
+75percentile_UE Throughput DL
+sem_UE Throughput DL

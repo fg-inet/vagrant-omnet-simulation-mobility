@@ -1,0 +1,5 @@
+cov_Uplink CQI
+median_UE Throughput DL
+average_UE Throughput DL
+75percentile_UE Throughput DL
+sem_UE Throughput DL

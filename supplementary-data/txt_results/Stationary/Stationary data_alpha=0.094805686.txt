@@ -1,0 +1,11 @@
+max_Downlink CQI
+25percentile_Downlink CQI
+median_Downlink CQI
+75percentile_Downlink CQI
+min_Downlink CQI
+25percentile_UE Throughput DL
+average_Downlink CQI
+75percentile_UE Throughput DL
+median_UE Throughput DL
+average_Uplink CQI
+average_UE Throughput DL

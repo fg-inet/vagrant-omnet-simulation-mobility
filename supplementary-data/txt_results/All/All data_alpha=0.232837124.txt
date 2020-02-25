@@ -1,0 +1,3 @@
+average_Uplink CQI
+sem_UE Throughput DL
+average_UE Throughput DL

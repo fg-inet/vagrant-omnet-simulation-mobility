@@ -1,0 +1,5 @@
+75percentile_UE Throughput DL
+25percentile_Uplink CQI
+average_Uplink CQI
+sem_UE Throughput DL
+average_UE Throughput DL

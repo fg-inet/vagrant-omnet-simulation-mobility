@@ -1,0 +1,36 @@
+max_UE Throughput DL
+sem_Downlink CQI
+cov_Uplink CQI
+var_UE Throughput UL
+75percentile_eNB Throughput UL
+median_UE Throughput UL
+75percentile_eNB Throughput DL
+skew_Downlink CQI
+std_UE Throughput UL
+max_Smoothed RTT
+kurt_Downlink CQI
+var_Uplink CQI
+75percentile_Measured RTT
+std_Downlink CQI
+25percentile_Downlink CQI
+skew_Measured RTT
+std_Uplink CQI
+25percentile_Measured RTT
+max_Uplink CQI
+kurt_Smoothed RTT
+min_Uplink CQI
+cov_Smoothed RTT
+kurt_Uplink CQI
+75percentile_Downlink CQI
+min_Measured RTT
+kurt_UE Throughput DL
+25percentile_Smoothed RTT
+75percentile_UE Throughput DL
+sem_Smoothed RTT
+sem_UE Throughput UL
+average_Uplink CQI
+sem_Uplink CQI
+cov_UE Throughput DL
+25percentile_UE Throughput DL
+average_UE Throughput DL
+sem_UE Throughput DL
